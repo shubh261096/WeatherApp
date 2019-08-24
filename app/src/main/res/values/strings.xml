@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="toolbar_home">Home</string>
+    <string name="degree_celcius">&#160;\u00B0C </string>
+    <string name="app_location_permission_warning_msg">You\'ve previously denied Location permission.\nTo enable this, click App Settings below and activate Location under the Permissions menu</string>
+    <string name="refresh">Refresh</string>
+    <string name="msg_retry">Retry</string>
+    <string name="msg_enable_gps">Your GPS seems to be disabled, do you want to enable it?</string>
+    <string name="msg_yes">Yes</string>
+    <string name="msg_gps_enable">Please enable gps and try once again.</string>
+    <string name="msg_no">No</string>
+    <string name="msg_cancel">Cancel</string>
+    <string name="msg_settings">Settings</string>
+
+</resources>
